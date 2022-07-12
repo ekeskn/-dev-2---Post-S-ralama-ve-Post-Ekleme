@@ -1,3 +1,3 @@
-# -dev-2---Post-S-ralama-ve-Post-Ekleme
+# Add-Show-Post
 
 Adding and Showing Posts with "Promise Object"
